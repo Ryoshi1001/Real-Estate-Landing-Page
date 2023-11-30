@@ -1,5 +1,6 @@
 # Real-Estate-Landing-Page
 - Custom unbranded Landing-Page with user Email capture - created all content, layout, logo, and idea.
+- Inspired by design on Leadpages
 
 ![](TS-Real-Estate-Landing-Page.png)
 
